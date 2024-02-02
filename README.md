@@ -32,16 +32,16 @@ Keep scoring and earn medals!<br>
 There are four medals to earn; Bronze, Silver, Gold, Platinum!
 
 #### __Bronze__
-[![Bronze](https://github.com/itzteddylicious/Fifty-bird/blob/main/flappy/bronze.png)]
+![Bronze](https://github.com/itzteddylicious/Fifty-bird/blob/main/flappy/bronze.png)
 
 #### __Silver__
-[![Silver](https://github.com/itzteddylicious/Fifty-bird/blob/main/flappy/silver.png)]
+![Silver](https://github.com/itzteddylicious/Fifty-bird/blob/main/flappy/silver.png)
 
 #### __Gold__
-[![Gold](https://github.com/itzteddylicious/Fifty-bird/blob/main/flappy/gold.png)]
+![Gold](https://github.com/itzteddylicious/Fifty-bird/blob/main/flappy/gold.png)
 
 #### __Platinum__
-[![Platinum](https://github.com/itzteddylicious/Fifty-bird/blob/main/flappy/platinum.png)]
+![Platinum](https://github.com/itzteddylicious/Fifty-bird/blob/main/flappy/platinum.png)
 
 
 ### __Pause__
